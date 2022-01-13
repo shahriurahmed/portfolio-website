@@ -42,3 +42,9 @@ section {
   background-image: url(images/illustrators/top-banner.png);
   background-repeat: no-repeat;
 }
+
+.dream-big {
+  background-image: url(images/illustrators/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
