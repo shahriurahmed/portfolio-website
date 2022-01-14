@@ -71,11 +71,22 @@ p {
 
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, tomato);
+  background-color: tomato;
+
   padding: 10px 30px;
-  border-radius: 5px;
+  border-radius: 40px;
   color: white;
   font-weight: 400;
+  margin: 0;
+}
+#b_design {
+  border: 2px solid tomato;
+  border-radius: 40px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-right: 4px;
+  padding-left: 4px;
+  width: 120px;
 }
 
 .top-banner {
